@@ -1,3 +1,6 @@
+First HTML project for The Odin Project online web development course. 
+
+
 Build a basic recipe website.
 
 The goal here is to use my basic understanding of 
